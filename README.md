@@ -48,8 +48,7 @@ print(Norm_of_matrix)
 ## Output:
 ![image](https://github.com/subha2406/Norm-of-a-matrix/assets/155226504/9cfd671c-f493-4f02-a852-5c669211ee7f)
 ![image](https://github.com/subha2406/Norm-of-a-matrix/assets/155226504/47cb462b-3988-4559-8177-3714c269ca07)
-![image](https://github.com/subha2406/Norm-of-a-matrix/assets/155226504/502b4b18-f3a7-4d5c-b880-543e3b18f3cd)
-
+![image](https://github.com/subha2406/Norm-of-a-matrix/assets/155226504/eb2e35bc-b288-49ec-9edd-c432ef8c3b43)
 
 
 ## Result
